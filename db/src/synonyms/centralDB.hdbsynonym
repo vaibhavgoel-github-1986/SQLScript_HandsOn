@@ -1,0 +1,472 @@
+{
+  "PO.Header": {
+    "target": {
+      "object": "PO.Header"
+    }
+  },
+  "PO.Item": {
+    "target": {
+      "object": "PO.Item"
+    }
+  },
+  "BUYER": {
+    "target": {
+      "object": "core.models::BUYER"
+    }
+  },
+  "CUSTOMER_DISCOUNT_BY_RANKING_AND_REGION": {
+    "target": {
+      "object": "core.models::CUSTOMER_DISCOUNT_BY_RANKING_AND_REGION"
+    }
+  },
+  "GET_PARTNER_ROLES": {
+    "target": {
+      "object": "core.models::GET_PARTNER_ROLES"
+    }
+  },
+  "POExpanded": {
+    "target": {
+      "object": "core.models::POExpanded"
+    }
+  },
+  "PO_BASIC": {
+    "target": {
+      "object": "core.models::PO_BASIC"
+    }
+  },
+  "PO_HEADER_EN": {
+    "target": {
+      "object": "core.models::PO_HEADER_EN"
+    }
+  },
+  "PO_HEADER_ONLY": {
+    "target": {
+      "object": "core.models::PO_HEADER_ONLY"
+    }
+  },
+  "PO_ITEM": {
+    "target": {
+      "object": "core.models::PO_ITEM"
+    }
+  },
+  "PROD": {
+    "target": {
+      "object": "core.models::PROD"
+    }
+  },
+  "PRODUCT": {
+    "target": {
+      "object": "core.models::PRODUCT"
+    }
+  },
+  "PRODUCTS": {
+    "target": {
+      "object": "core.models::PRODUCTS"
+    }
+  },
+  "PRODUCT_SALE_PRICE": {
+    "target": {
+      "object": "core.models::PRODUCT_SALE_PRICE"
+    }
+  },
+  "PURCHASE_COMMON_CURRENCY": {
+    "target": {
+      "object": "core.models::PURCHASE_COMMON_CURRENCY"
+    }
+  },
+  "PURCHASE_DETAILS": {
+    "target": {
+      "object": "core.models::PURCHASE_DETAILS"
+    }
+  },
+  "PURCHASE_ORDERS": {
+    "target": {
+      "object": "core.models::PURCHASE_ORDERS"
+    }
+  },
+  "SALESORDER_BASKET_ANALYSIS": {
+    "target": {
+      "object": "core.models::SALESORDER_BASKET_ANALYSIS"
+    }
+  },
+  "SALESORDER_DYNAMIC_JOIN": {
+    "target": {
+      "object": "core.models::SALESORDER_DYNAMIC_JOIN"
+    }
+  },
+  "SALESORDER_RANKING": {
+    "target": {
+      "object": "core.models::SALESORDER_RANKING"
+    }
+  },
+  "SALESORDER_RANKING_AND_DISCOUNT": {
+    "target": {
+      "object": "core.models::SALESORDER_RANKING_AND_DISCOUNT"
+    }
+  },
+  "SALESORDER_RANKING_SQL": {
+    "target": {
+      "object": "core.models::SALESORDER_RANKING_SQL"
+    }
+  },
+  "SALES_DETAILS": {
+    "target": {
+      "object": "core.models::SALES_DETAILS"
+    }
+  },
+  "SALES_ORDER_HEADER_W_BUYER": {
+    "target": {
+      "object": "core.models::SALES_ORDER_HEADER_W_BUYER"
+    }
+  },
+  "SALES_ORDER_LITE": {
+    "target": {
+      "object": "core.models::SALES_ORDER_LITE"
+    }
+  },
+  "SALES_ORDER_RANKING": {
+    "target": {
+      "object": "core.models::SALES_ORDER_RANKING"
+    }
+  },
+  "SALES_ORDER_RANKING_AND_DISCOUNT_SQL": {
+    "target": {
+      "object": "core.models::SALES_ORDER_RANKING_AND_DISCOUNT_SQL"
+    }
+  },
+  "SALES_ORDER_WORKLIST": {
+    "target": {
+      "object": "core.models::SALES_ORDER_WORKLIST"
+    }
+  },
+  "SALES_OVERVIEW_WO_CURR_CONV_OPT": {
+    "target": {
+      "object": "core.models::SALES_OVERVIEW_WO_CURR_CONV_OPT"
+    }
+  },
+  "SALES_YEAR_COMPARISON": {
+    "target": {
+      "object": "core.models::SALES_YEAR_COMPARISON"
+    }
+  },
+  "SFLIGHT_MODEL": {
+    "target": {
+      "object": "core.models::SFLIGHT_MODEL"
+    }
+  },
+  "SUPPLIER": {
+    "target": {
+      "object": "core.models::SUPPLIER"
+    }
+  },
+  "TIME_DIM": {
+    "target": {
+      "object": "core.models::TIME_DIM"
+    }
+  },
+  "FLIGHT.SflightExt": {
+    "target": {
+      "object": "FLIGHT.SflightExt"
+    }
+  },
+  "FLIGHT.SflightView": {
+    "target": {
+      "object": "FLIGHT.SflightView"
+    }
+  },
+  "Jobs.Data": {
+    "target": {
+      "object": "Jobs.Data"
+    }
+  },
+  "Jobs.ScheduleDetails": {
+    "target": {
+      "object": "Jobs.ScheduleDetails"
+    }
+  },
+  "JobsDemo.Details": {
+    "target": {
+      "object": "JobsDemo.Details"
+    }
+  },
+  "JobsDemo.RuntimeSchedules": {
+    "target": {
+      "object": "JobsDemo.RuntimeSchedules"
+    }
+  },
+  "MD.Addresses": {
+    "target": {
+      "object": "MD.Addresses"
+    }
+  },
+  "MD.BusinessPartner": {
+    "target": {
+      "object": "MD.BusinessPartner"
+    }
+  },
+  "MD.Employees": {
+    "target": {
+      "object": "MD.Employees"
+    }
+  },
+  "MD.Products": {
+    "target": {
+      "object": "MD.Products"
+    }
+  },
+  "MD.productLog": {
+    "target": {
+      "object": "MD.productLog"
+    }
+  },
+  "MDViews.BPAddrExt": {
+    "target": {
+      "object": "MDViews.BPAddrExt"
+    }
+  },
+  "MDViews.BPOrders2View": {
+    "target": {
+      "object": "MDViews.BPOrders2View"
+    }
+  },
+  "MDViews.BPOrders3View": {
+    "target": {
+      "object": "MDViews.BPOrders3View"
+    }
+  },
+  "MDViews.BPOrdersView": {
+    "target": {
+      "object": "MDViews.BPOrdersView"
+    }
+  },
+  "MDViews.BPView": {
+    "target": {
+      "object": "MDViews.BPView"
+    }
+  },
+  "MDViews.BuyerView": {
+    "target": {
+      "object": "MDViews.BuyerView"
+    }
+  },
+  "MDViews.NewYorkEmployees": {
+    "target": {
+      "object": "MDViews.NewYorkEmployees"
+    }
+  },
+  "MDViews.ProductValuesView": {
+    "target": {
+      "object": "MDViews.ProductValuesView"
+    }
+  },
+  "MDViews.ProductView": {
+    "target": {
+      "object": "MDViews.ProductView"
+    }
+  },
+  "MDViews.ProductViewSub": {
+    "target": {
+      "object": "MDViews.ProductViewSub"
+    }
+  },
+  "MDViews.ProductsConsumption": {
+    "target": {
+      "object": "MDViews.ProductsConsumption"
+    }
+  },
+  "MDViews.ProductsValueHelp": {
+    "target": {
+      "object": "MDViews.ProductsValueHelp"
+    }
+  },
+  "MDViews.SupplierView": {
+    "target": {
+      "object": "MDViews.SupplierView"
+    }
+  },
+  "MDViews.SupplierViewVH": {
+    "target": {
+      "object": "MDViews.SupplierViewVH"
+    }
+  },
+  "MDViews.partnerRoles": {
+    "target": {
+      "object": "MDViews.partnerRoles"
+    }
+  },
+  "MDViews.productCategoryVH": {
+    "target": {
+      "object": "MDViews.productCategoryVH"
+    }
+  },
+  "MDViews.productTexts": {
+    "target": {
+      "object": "MDViews.productTexts"
+    }
+  },
+  "MDViews.texts": {
+    "target": {
+      "object": "MDViews.texts"
+    }
+  },
+  "MDViews.PartnerRoles2": {
+    "target": {
+      "object": "MDViews.PartnerRoles2"
+    }
+  },
+  "MDViews.BusinessPartnersView": {
+    "target": {
+      "object": "MDViews.BusinessPartnersView"
+    }
+  },
+  "PO.HeaderView": {
+    "target": {
+      "object": "PO.HeaderView"
+    }
+  },
+  "PO.ItemView": {
+    "target": {
+      "object": "PO.ItemView"
+    }
+  },
+  "PO.POView": {
+    "target": {
+      "object": "PO.POView"
+    }
+  },
+  "PO.POWorklistView": {
+    "target": {
+      "object": "PO.POWorklistView"
+    }
+  },
+  "POViews.POHeaderConsumption": {
+    "target": {
+      "object": "POViews.POHeaderConsumption"
+    }
+  },
+  "POViews.POItemConsumption": {
+    "target": {
+      "object": "POViews.POItemConsumption"
+    }
+  },
+  "Product.ProductLog": {
+    "target": {
+      "object": "Product.ProductLog"
+    }
+  },
+  "Product.Products": {
+    "target": {
+      "object": "Product.Products"
+    }
+  },
+  "PurchaseOrder.Header": {
+    "target": {
+      "object": "PurchaseOrder.Header"
+    }
+  },
+  "PurchaseOrder.Item": {
+    "target": {
+      "object": "PurchaseOrder.Item"
+    }
+  },
+  "PurchaseOrderSQL.Header": {
+    "target": {
+      "object": "PurchaseOrderSQL.Header"
+    }
+  },
+  "PurchaseOrderSQL.Header2": {
+    "target": {
+      "object": "PurchaseOrderSQL.Header2"
+    }
+  },
+  "PurchaseOrderSQL.Item": {
+    "target": {
+      "object": "PurchaseOrderSQL.Item"
+    }
+  },
+  "PurchaseOrder.ItemView": {
+    "target": {
+      "object": "PurchaseOrder.ItemView"
+    }
+  },
+  "PurchaseOrdersSQL": {
+    "target": {
+      "object": "PurchaseOrdersSQL"
+    }
+  },
+  "PurchaseOrdersSQL2": {
+    "target": {
+      "object": "PurchaseOrdersSQL2"
+    }
+  },
+  "SO.Filter": {
+    "target": {
+      "object": "SO.Filter"
+    }
+  },
+  "SO.Header": {
+    "target": {
+      "object": "SO.Header"
+    }
+  },
+  "SO.Item": {
+    "target": {
+      "object": "SO.Item"
+    }
+  },
+  "jsonExamples.jsonTbl1": {
+    "target": {
+      "object": "jsonExamples.jsonTbl1"
+    }
+  },
+  "Util.Attachments": {
+    "target": {
+      "object": "Util.Attachments"
+    }
+  },
+  "Util.Constants": {
+    "target": {
+      "object": "Util.Constants"
+    }
+  },
+  "Util.Messages": {
+    "target": {
+      "object": "Util.Messages"
+    }
+  },
+  "Util.MySeriesEntity": {
+    "target": {
+      "object": "Util.MySeriesEntity"
+    }
+  },
+  "Util.Notes": {
+    "target": {
+      "object": "Util.Notes"
+    }
+  },
+  "Util.SSCOOKIE": {
+    "target": {
+      "object": "Util.SSCOOKIE"
+    }
+  },
+  "Util.SeriesData": {
+    "target": {
+      "object": "Util.SeriesData"
+    }
+  },
+  "Util.Texts": {
+    "target": {
+      "object": "Util.Texts"
+    }
+  },
+  "Util.AttachementsView": {
+    "target": {
+      "object": "Util.AttachementsView"
+    }
+  },
+  "Util.NotesView": {
+    "target": {
+      "object": "Util.NotesView"
+    }
+  }
+}

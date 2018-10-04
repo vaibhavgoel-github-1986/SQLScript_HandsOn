@@ -1,0 +1,33 @@
+ID: DAT374
+_schema-version: '2.0'
+version: 0.0.1
+
+modules:
+ - name: db
+   type: hdb
+   path: db
+   requires:
+    - name: hdi_db
+      properties:
+        TARGET_CONTAINER: '~{hdi-container-name}'
+    - name: CentralDB
+      group: SERVICE_REPLACEMENTS
+      properties:
+        key: central-db-service
+        service: '~{central-db-name}' 
+
+resources:
+ - name: hdi_db
+   parameters:
+      config:
+         schema: DAT374
+   properties:
+      hdi-container-name: ${service-name}
+   type: com.sap.xs.hdi-container
+
+ - name: CentralDB
+   type: org.cloudfoundry.existing-service
+   parameters:
+     service-name: TechEd2018CentralDB.teched-2018-cc  
+   properties:
+     central-db-name: '${service-name}'

@@ -1,0 +1,566 @@
+{
+  "PO.Header": {
+    "target": {
+      "object": "PO.Header",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PO.Item": {
+    "target": {
+      "object": "PO.Item",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+    "BUYER": {
+    "target": {
+      "object": "core.models::BUYER",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "CUSTOMER_DISCOUNT_BY_RANKING_AND_REGION": {
+    "target": {
+      "object": "core.models::CUSTOMER_DISCOUNT_BY_RANKING_AND_REGION",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "GET_PARTNER_ROLES": {
+    "target": {
+      "object": "core.models::GET_PARTNER_ROLES",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "POExpanded": {
+    "target": {
+      "object": "core.models::POExpanded",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PO_BASIC": {
+    "target": {
+      "object": "core.models::PO_BASIC",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PO_HEADER_EN": {
+    "target": {
+      "object": "core.models::PO_HEADER_EN",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PO_HEADER_ONLY": {
+    "target": {
+      "object": "core.models::PO_HEADER_ONLY",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PO_ITEM": {
+    "target": {
+      "object": "core.models::PO_ITEM",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PROD": {
+    "target": {
+      "object": "core.models::PROD",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PRODUCT": {
+    "target": {
+      "object": "core.models::PRODUCT",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PRODUCTS": {
+    "target": {
+      "object": "core.models::PRODUCTS",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PRODUCT_SALE_PRICE": {
+    "target": {
+      "object": "core.models::PRODUCT_SALE_PRICE",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PURCHASE_COMMON_CURRENCY": {
+    "target": {
+      "object": "core.models::PURCHASE_COMMON_CURRENCY",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PURCHASE_DETAILS": {
+    "target": {
+      "object": "core.models::PURCHASE_DETAILS",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PURCHASE_ORDERS": {
+    "target": {
+      "object": "core.models::PURCHASE_ORDERS",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "SALESORDER_BASKET_ANALYSIS": {
+    "target": {
+      "object": "core.models::SALESORDER_BASKET_ANALYSIS",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "SALESORDER_DYNAMIC_JOIN": {
+    "target": {
+      "object": "core.models::SALESORDER_DYNAMIC_JOIN",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "SALESORDER_RANKING": {
+    "target": {
+      "object": "core.models::SALESORDER_RANKING",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "SALESORDER_RANKING_AND_DISCOUNT": {
+    "target": {
+      "object": "core.models::SALESORDER_RANKING_AND_DISCOUNT",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "SALESORDER_RANKING_SQL": {
+    "target": {
+      "object": "core.models::SALESORDER_RANKING_SQL",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "SALES_DETAILS": {
+    "target": {
+      "object": "core.models::SALES_DETAILS",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "SALES_ORDER_HEADER_W_BUYER": {
+    "target": {
+      "object": "core.models::SALES_ORDER_HEADER_W_BUYER",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "SALES_ORDER_LITE": {
+    "target": {
+      "object": "core.models::SALES_ORDER_LITE",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "SALES_ORDER_RANKING": {
+    "target": {
+      "object": "core.models::SALES_ORDER_RANKING",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "SALES_ORDER_RANKING_AND_DISCOUNT_SQL": {
+    "target": {
+      "object": "core.models::SALES_ORDER_RANKING_AND_DISCOUNT_SQL",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "SALES_ORDER_WORKLIST": {
+    "target": {
+      "object": "core.models::SALES_ORDER_WORKLIST",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "SALES_OVERVIEW_WO_CURR_CONV_OPT": {
+    "target": {
+      "object": "core.models::SALES_OVERVIEW_WO_CURR_CONV_OPT",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "SALES_YEAR_COMPARISON": {
+    "target": {
+      "object": "core.models::SALES_YEAR_COMPARISON",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "SFLIGHT_MODEL": {
+    "target": {
+      "object": "core.models::SFLIGHT_MODEL",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "SUPPLIER": {
+    "target": {
+      "object": "core.models::SUPPLIER",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "TIME_DIM": {
+    "target": {
+      "object": "core.models::TIME_DIM",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "FLIGHT.SflightExt": {
+    "target": {
+      "object": "FLIGHT.SflightExt",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "FLIGHT.SflightView": {
+    "target": {
+      "object": "FLIGHT.SflightView",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "Jobs.Data": {
+    "target": {
+      "object": "Jobs.Data",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "Jobs.ScheduleDetails": {
+    "target": {
+      "object": "Jobs.ScheduleDetails",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "JobsDemo.Details": {
+    "target": {
+      "object": "JobsDemo.Details",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "JobsDemo.RuntimeSchedules": {
+    "target": {
+      "object": "JobsDemo.RuntimeSchedules",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MD.Addresses": {
+    "target": {
+      "object": "MD.Addresses",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MD.BusinessPartner": {
+    "target": {
+      "object": "MD.BusinessPartner",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MD.Employees": {
+    "target": {
+      "object": "MD.Employees",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MD.Products": {
+    "target": {
+      "object": "MD.Products",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MD.productLog": {
+    "target": {
+      "object": "MD.productLog",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MDViews.BPAddrExt": {
+    "target": {
+      "object": "MDViews.BPAddrExt",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MDViews.BPOrders2View": {
+    "target": {
+      "object": "MDViews.BPOrders2View",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MDViews.BPOrders3View": {
+    "target": {
+      "object": "MDViews.BPOrders3View",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MDViews.BPOrdersView": {
+    "target": {
+      "object": "MDViews.BPOrdersView",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MDViews.BPView": {
+    "target": {
+      "object": "MDViews.BPView",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MDViews.BuyerView": {
+    "target": {
+      "object": "MDViews.BuyerView",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MDViews.NewYorkEmployees": {
+    "target": {
+      "object": "MDViews.NewYorkEmployees",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MDViews.ProductValuesView": {
+    "target": {
+      "object": "MDViews.ProductValuesView",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MDViews.ProductView": {
+    "target": {
+      "object": "MDViews.ProductView",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MDViews.ProductViewSub": {
+    "target": {
+      "object": "MDViews.ProductViewSub",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MDViews.ProductsConsumption": {
+    "target": {
+      "object": "MDViews.ProductsConsumption",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MDViews.ProductsValueHelp": {
+    "target": {
+      "object": "MDViews.ProductsValueHelp",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MDViews.SupplierView": {
+    "target": {
+      "object": "MDViews.SupplierView",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MDViews.SupplierViewVH": {
+    "target": {
+      "object": "MDViews.SupplierViewVH",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MDViews.partnerRoles": {
+    "target": {
+      "object": "MDViews.partnerRoles",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MDViews.productCategoryVH": {
+    "target": {
+      "object": "MDViews.productCategoryVH",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MDViews.productTexts": {
+    "target": {
+      "object": "MDViews.productTexts",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MDViews.texts": {
+    "target": {
+      "object": "MDViews.texts",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MDViews.PartnerRoles2": {
+    "target": {
+      "object": "MDViews.PartnerRoles2",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "MDViews.BusinessPartnersView": {
+    "target": {
+      "object": "MDViews.BusinessPartnersView",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PO.HeaderView": {
+    "target": {
+      "object": "PO.HeaderView",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PO.ItemView": {
+    "target": {
+      "object": "PO.ItemView",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PO.POView": {
+    "target": {
+      "object": "PO.POView",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PO.POWorklistView": {
+    "target": {
+      "object": "PO.POWorklistView",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "POViews.POHeaderConsumption": {
+    "target": {
+      "object": "POViews.POHeaderConsumption",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "POViews.POItemConsumption": {
+    "target": {
+      "object": "POViews.POItemConsumption",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "Product.ProductLog": {
+    "target": {
+      "object": "Product.ProductLog",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "Product.Products": {
+    "target": {
+      "object": "Product.Products",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PurchaseOrder.Header": {
+    "target": {
+      "object": "PurchaseOrder.Header",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PurchaseOrder.Item": {
+    "target": {
+      "object": "PurchaseOrder.Item",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PurchaseOrderSQL.Header": {
+    "target": {
+      "object": "PurchaseOrderSQL.Header",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PurchaseOrderSQL.Header2": {
+    "target": {
+      "object": "PurchaseOrderSQL.Header2",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PurchaseOrderSQL.Item": {
+    "target": {
+      "object": "PurchaseOrderSQL.Item",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PurchaseOrder.ItemView": {
+    "target": {
+      "object": "PurchaseOrder.ItemView",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PurchaseOrdersSQL": {
+    "target": {
+      "object": "PurchaseOrdersSQL",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "PurchaseOrdersSQL2": {
+    "target": {
+      "object": "PurchaseOrdersSQL2",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "SO.Filter": {
+    "target": {
+      "object": "SO.Filter",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "SO.Header": {
+    "target": {
+      "object": "SO.Header",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "SO.Item": {
+    "target": {
+      "object": "SO.Item",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "jsonExamples.jsonTbl1": {
+    "target": {
+      "object": "jsonExamples.jsonTbl1",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "Util.Attachments": {
+    "target": {
+      "object": "Util.Attachments",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "Util.Constants": {
+    "target": {
+      "object": "Util.Constants",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "Util.Messages": {
+    "target": {
+      "object": "Util.Messages",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "Util.MySeriesEntity": {
+    "target": {
+      "object": "Util.MySeriesEntity",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "Util.Notes": {
+    "target": {
+      "object": "Util.Notes",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "Util.SSCOOKIE": {
+    "target": {
+      "object": "Util.SSCOOKIE",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "Util.SeriesData": {
+    "target": {
+      "object": "Util.SeriesData",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "Util.Texts": {
+    "target": {
+      "object": "Util.Texts",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "Util.AttachementsView": {
+    "target": {
+      "object": "Util.AttachementsView",
+      "schema.configure": "central-db-service/schema"
+    }
+  },
+  "Util.NotesView": {
+    "target": {
+      "object": "Util.NotesView",
+      "schema.configure": "central-db-service/schema"
+    }
+  }
+}
